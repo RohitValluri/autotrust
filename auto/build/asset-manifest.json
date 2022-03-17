@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/aututrust/static/css/main.5b7fdad6.css",
+    "main.js": "/aututrust/static/js/main.f35f69b2.js",
+    "static/js/787.2b887b81.chunk.js": "/aututrust/static/js/787.2b887b81.chunk.js",
+    "static/media/car-g2d7b1eca2_1280.png": "/aututrust/static/media/car-g2d7b1eca2_1280.75f078b1852449d780c5.png",
+    "static/media/ContactPageImg_Green.png": "/aututrust/static/media/ContactPageImg_Green.09fa83691670d1242338.png",
+    "static/media/Picture1.png": "/aututrust/static/media/Picture1.ad2126ea933b7e23acc3.png",
+    "static/media/Picture5.png": "/aututrust/static/media/Picture5.18582263d0245904d25e.png",
+    "static/media/Picture15.png": "/aututrust/static/media/Picture15.ee444382166c93e03998.png",
+    "static/media/Dashboard_1.jpg": "/aututrust/static/media/Dashboard_1.763e1fb5eaf4f92d80dd.jpg",
+    "static/media/Picture3.png": "/aututrust/static/media/Picture3.f42c3b99dfccd4a2b815.png",
+    "static/media/Dashboard_2.png": "/aututrust/static/media/Dashboard_2.ff1d15af8ae604d1c682.png",
+    "static/media/FeatureGlimpse.png": "/aututrust/static/media/FeatureGlimpse.a04f16fdcc3feaa5fa4a.png",
+    "static/media/Dashboard_3.jpg": "/aututrust/static/media/Dashboard_3.4770594c17c79fa3598b.jpg",
+    "static/media/Sales.png": "/aututrust/static/media/Sales.80fe8d921fc50ce27038.png",
+    "static/media/barchart.png": "/aututrust/static/media/barchart.d802fc2a779ab72473ea.png",
+    "static/media/support.png": "/aututrust/static/media/support.2d6e431cdb315e17bdb5.png",
+    "static/media/img1.png": "/aututrust/static/media/img1.39ac1ca0dab6be419593.png",
+    "static/media/pic1.png": "/aututrust/static/media/pic1.334a7e0659125a418b0e.png",
+    "static/media/img2.png": "/aututrust/static/media/img2.68cd05da5a2db66dcf30.png",
+    "static/media/img3.png": "/aututrust/static/media/img3.b2847749432c7c80ff41.png",
+    "static/media/carpic.png": "/aututrust/static/media/carpic.1d5b238d15867ca23f7d.png",
+    "static/media/slick.svg": "/aututrust/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/aututrust/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/aututrust/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/aututrust/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/aututrust/index.html",
+    "main.5b7fdad6.css.map": "/aututrust/static/css/main.5b7fdad6.css.map",
+    "main.f35f69b2.js.map": "/aututrust/static/js/main.f35f69b2.js.map",
+    "787.2b887b81.chunk.js.map": "/aututrust/static/js/787.2b887b81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b7fdad6.css",
+    "static/js/main.f35f69b2.js"
+  ]
+}
